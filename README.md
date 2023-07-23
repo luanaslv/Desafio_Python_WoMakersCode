@@ -2,10 +2,13 @@
  Desafio de Python do Bootcamp Data Analytics da WoMakersCode! Neste notebook, você deve escrever o código python em resposta à cada uma das perguntas. Esteja atenta ao enunciado do problema!
 
 # Desafio 1
-Escreva uma função em python que lê dois números inteiros (a,b) e gere como resultado as seguintes operações:adição, subtração, multiplicação e divisão. Execute a funçao na celula abaixo, deixando visivel exemplos de resultados.
+Escreva uma função em python que lê dois números inteiros (a,b) e gere como resultado as seguintes operações:
+
+    Adição, subtração, multiplicação e divisão. Execute a funçao na celula abaixo, deixando visivel exemplos de resultados.
 
 # Desafio 2
 Escreva uma função em python que leia como input uma idade e retorne a classificaçao da ideade do individuo da seguinte forma em:
+
     Criança – 0 a 12 anos
     Adolescente – 13 a 17 anos
     Adulto – acima de 18 anos
